@@ -80,5 +80,6 @@ print ('Information written to records successfully')
 
 #import time
 
+#The output stored in a file for future use
 
 
