@@ -78,7 +78,7 @@ print ('..'*40)
 print ('Information written to records successfully') 
 
 
-
+#import time
 
 
 
