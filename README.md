@@ -29,4 +29,4 @@ The program was written entirely in *Python*. We utilised the *datetime library*
 
 [Eugenia Owusu-Ansah](https://github.com/eugeniaowiredua) click [here](https://www.linkedin.com/in/eugenia-owusu-ansah-17950a160/) to check out Eugenia's linkedin profile
 
-[Eugene Sintim](https://github.com/EUGENE-hue)
+[Eugene Sintim](https://github.com/EUGENE-hue) click [here] (https://www.linkedin.com/in/eugene-gyabaah-sintim-06a303a9/) to check out Eugene's LinkedIn profile
