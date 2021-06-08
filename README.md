@@ -25,7 +25,7 @@ The program was written entirely in *Python*. We utilised the *datetime library*
 
 ## TEAM MEMBERS
 
-[Gideon Ahiadzi](https://github.com/horlali)  click [here](https://www.linkedin.com/in/gideon-ahiadzi) to check out Gideon's linkedin profile
+[Horlali](https://github.com/horlali)  click [here](https://www.linkedin.com/in/gideon-ahiadzi) to check out Horlali's linkedin profile
 
 [Eugenia Owusu-Ansah](https://github.com/eugeniaowiredua) click [here](https://www.linkedin.com/in/eugenia-owusu-ansah-17950a160/) to check out Eugenia's linkedin profile
 
